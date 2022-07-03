@@ -1,0 +1,21 @@
+[debug] [2022-07-02T23:57:29.197Z] ----------------------------------------------------------------------
+[debug] [2022-07-02T23:57:29.200Z] Command:       C:\Users\jfont\node.exe C:\Users\jfont\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-07-02T23:57:29.201Z] CLI Version:   10.8.0
+[debug] [2022-07-02T23:57:29.201Z] Platform:      win32
+[debug] [2022-07-02T23:57:29.201Z] Node Version:  v16.15.0
+[debug] [2022-07-02T23:57:29.202Z] Time:          Sat Jul 02 2022 19:57:29 GMT-0400 (Eastern Daylight Time)
+[debug] [2022-07-02T23:57:29.203Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-02T23:57:29.217Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-02T23:57:29.218Z] > authorizing via signed-in user (jfontaine19@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\jfont\OneDrive\Desktop\Webpage\website
+
